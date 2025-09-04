@@ -77,5 +77,5 @@ while(temp!=NULL){
     cout<<temp->data<<" ";
     temp=temp->next;
 }
-    return 0;
-}
+    return 0; 
+}xdxh
